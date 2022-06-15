@@ -1,0 +1,30 @@
+@startmindmap
+* 信息空间 INFO_SPACE
+** 成熟开放的信息 mature_open
+*** 人生资本 
+*** 信息分析 information_analysis
+*** 认知科学
+*** 大数据 big_data
+*** ...
+*** 其它 others
+** 不成熟私密的信息 immature_privacy
+***:日记 diary
+自己的日记、生活照片;
+***:阅读笔记 reading
+阅读相关的卡片。子分类按书名进行分类;
+**** 人生模式：识别并优化你的核心认知
+**** Stories of Your Life and Others
+***:编程笔记 programming
+编程相关笔记卡片。子分类按软件/组件/编程语言分类;
+**** Linux
+**** Git
+**** Python
+**** Spark
+***:课程笔记 course
+上过的课程相关笔记卡片。子分类按课程分类;
+**** 信息分析十期 information_analysis-010
+**** 人生资本训练营二期
+**** 行为分析三期
+*** ...
+*** 其它 others
+@endmindmap

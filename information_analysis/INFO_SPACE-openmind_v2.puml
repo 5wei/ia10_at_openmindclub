@@ -1,0 +1,29 @@
+@startmindmap
+* 信息空间 INFO_SPACE
+** 成熟开放的信息 mature_open
+***:D.MyLibrary-个人藏书
+作为数据库;
+***:C.MyLearn-认知科学主题
+“papaer.yangzhiping.com ：代表我的一切论文，这些论文同时用Zotero自动同步，进行降维管理。”
+“gitbook.yangzhiping.com：代表我写的一切书，这些书同时自动同步到Github。”
+**自己的一切作品，包括论文和书，与其他人的作品一并穿插在 MyLearn 里面**;
+*** C.MyLearn-商业管理主题（同上）
+*** C.MyLearn-阅读主题（同上）
+*** C.MyLearn-...（同上）
+***_:B.MyCreate
+个人作品不必作为单独的主题了，通过元数据的作者筛选即可。
+**个人作品与其他人的作品一并穿插在 MyLearn 里面**;
+***:A.MyNote-正在进行的项目xxx
+“keynote.yangzhiping.com ：代表我的一切 keynote 文件。”
+我的 keynote 文件作为项目成果的一部分放在对应的项目下面;
+*** A.MyNote-已归档的项目xxxx
+*** ...
+** 不成熟私密的信息 immature_privacy
+***:E.MyLife-个人生活
+photo.yangzhiping.com：代表我的一切照片，这些照片同时自动同步到云端。
+个人生活的文字照片本质上都是关于个人生活的信息（心理表征），不应该被存储形式所区分;
+*** A.MyNote-灵感
+***:0.Daily-每日阅读随手记
+gist.yangzhiping.com ：代表我的一切笔记，这些笔记同时用gist自动同步。;
+*** ...
+@endmindmap

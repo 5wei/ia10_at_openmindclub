@@ -1,0 +1,3 @@
+DOCUMENT TYPES
+
+参考 bibtext 的 Type 字段

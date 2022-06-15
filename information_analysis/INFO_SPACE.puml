@@ -1,0 +1,13 @@
+@startmindmap
+* 信息空间 INFO_SPACE
+** 成熟开放的信息 mature_open
+*** 主题1 topic1
+*** 主题2 topic2
+*** ...
+*** 其它 others
+** 不成熟私密的信息 immature_privacy
+*** 主题1 topic1
+*** 主题2 topic2
+*** ...
+*** 其它 others
+@endmindmap
