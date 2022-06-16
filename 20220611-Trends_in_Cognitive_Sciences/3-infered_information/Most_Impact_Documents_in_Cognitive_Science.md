@@ -141,6 +141,10 @@ theta band oscillations
 
 讲到了 gamma band
 
+## The free-energy principle: a rough guide to the brain?
+
+大名鼎鼎的自由能，被引数却不高。
+
 ## 
 
 认知科学学术界内，对大脑皮层（ cortex ）研究的关注比较多，认知科学的前沿几乎都是脑科学。

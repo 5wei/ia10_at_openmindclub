@@ -1,0 +1,8 @@
+"label","group","freq","centrality","impact","color"
+"model - conf 28.1% language - conf 37.5% representation - conf 16.7%","1","17","0.333699957324466","2.19414956829869","#E41A1C80"
+"perception - conf 51.1% attention - conf 28.6% awareness - conf 82.6%","2","31","0.480562995999214","1.8674774847848","#377EB880"
+"prefrontal cortex - conf 34.3% cortex - conf 23% working-memory - conf 30.6%","3","48","0.357261994733789","1.79298959990318","#4DAF4A80"
+"cortex - conf 23% perception - conf 33.3% fmri - conf 57.1%","4","35","0.339617724261219","2.20832085187959","#984EA380"
+"episodic memory - conf 80% recognition memory - conf 78.9% memory - conf 32.6%","5","35","0.427415195677707","1.87628764604062","#FF7F0080"
+"attention - conf 28.6% brain - conf 23.2% cortex - conf 14.9%","8","36","0.431109733450368","1.61947193759959","#99999980"
+"attention - conf 11.4% cortex - conf 9.5% short-term-memory - conf 36.8%","9","24","0.432574185802027","1.93227447053611","#66C2A580"

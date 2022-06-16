@@ -1,0 +1,7 @@
+"label","group","freq","centrality","impact","color"
+"prefrontal cortex - conf 29.7% working-memory - conf 29.7% cognitive control - conf 68.8%","1","53","0.373780264174877","2.59755097691199","#E41A1C80"
+"cortex - conf 21.6% human brain - conf 47.1% representation - conf 29.6%","2","43","0.343346233837574","3.10438882624622","#377EB880"
+"functional connectivity - conf 72.7% prefrontal cortex - conf 17.2% organization - conf 56.2%","3","46","0.480025311259033","2.32148337703441","#4DAF4A80"
+"memory - conf 53.8% medial temporal-lobe - conf 58.8% prefrontal cortex - conf 12.5%","4","34","0.381097607129027","3.06974652767106","#984EA380"
+"short-term-memory - conf 73.9% prefrontal cortex - conf 21.9% attention - conf 32.5%","5","41","0.464981857227614","3.14811440778548","#FF7F0080"
+"attention - conf 25% awareness - conf 100% perception - conf 45%","6","33","0.343121782941855","4.21239173428805","#A6562880"
