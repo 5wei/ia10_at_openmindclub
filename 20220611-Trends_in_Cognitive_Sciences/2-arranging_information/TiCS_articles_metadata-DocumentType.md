@@ -1,4 +1,5 @@
 
+DOCUMENT TYPES 用的是 wos 的定义，不是官网的定义，官网有一套类似的 DOCUMENT TYPES 定义。和官网验证过， wos 的定义其实挺正确，但是就是 Review 粒度太粗， Review 和 Editorial Material 有些没分清。
 
 > | DOCUMENT TYPES             | count |
 > | -------------------------- | ----- |

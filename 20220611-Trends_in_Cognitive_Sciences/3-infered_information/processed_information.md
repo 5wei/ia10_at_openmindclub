@@ -15,7 +15,7 @@ DEHAENE S (Dehaene, Stanislas) 本地被引数最高，是为什么呢？这个�
 
 ../2/bibliometrix_plot_table/Most_Local_Cited_Authors.csv
 
-最有价值文献；最有趣文献；
+最有价值文献；最有趣文献；有没有文献有畅销书的潜质的？
 
 [Most_Impact_Documents_top20](../2-arranging_information/Most_Impact_Documents_top20.md)
 
@@ -29,7 +29,7 @@ Most_Impact_Affiliations 中的中国机构？
 
 隔一段时间周期的 word cloud 特征，以及它们的变化演变？
 
-为什么 2021 年的被引量有一波低潮？2000 年和 2011 年的高潮是不是因为出了一些论文爆款？重点关注下2000 年和 2011 年两年的论文
+为什么 2021 年的被引量有一波低潮？2000 年和 2011 年的高潮是不是因为出了一些论文爆款？重点关注下 2000 年和 2011 年两年的论文。重点关注下引用高峰时期？
   ../2/bibliometrix_plot_table/Average Citations per Year.png
 
 认知科学是不是在近十年没有明显的发展？因为没有看到很厉害的综述出现。

@@ -60,7 +60,16 @@ emotional processing 上，检验突破性的研究。
 
 ## Mirror neurons and the simulation theory of mind-reading
 
-文献类型： Editorial Material
+文献类型： Editorial Material ；发表时间非常早 1998 ；主要讲 monkey's premotor cortex: mirror neurons
+
+这篇高引用 Editorial Material 有没有成功预测或推进后续几年的研究？
+
+> theory theory
+> 
+> The theory-theory (or 'theory theory') is a scientific theory relating to the human development of understanding about the outside world. This theory asserts that individuals hold a basic or 'naïve' theory of psychology ("folk psychology") to infer the mental states of others, such as their beliefs, desires or emotions. This information is used to understand the intentions behind that person's actions or predict future behavior. The term 'perspective taking' is sometimes used to describe how one makes inferences about another person's inner state using theoretical knowledge about the other's situation.
+> 
+> Ref. wikipedia
+
 
 ## Social perception from visual cues: role of the STS region
 
@@ -125,6 +134,12 @@ theta band oscillations
 > Ref. https://www.sciencedirect.com/science/article/abs/pii/S1364661314001077
 
 什么是 frontal theta
+
+## Oscillatory gamma activity in humans and its role in object representation
+
+文献类型： Editorial Material ；发表时间比较早期 1999 。
+
+讲到了 gamma band
 
 ## 
 
